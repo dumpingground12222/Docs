@@ -75,11 +75,23 @@ cap - 5 mln. $
 
 На данный момент у них существует 4 мобильных приложения для знакомств, 2 сайта и 3 оффлайн сервиса.
 
-[Самое их популярное приложение на плей-маркете, >100к скачиваний](https://play.google.com/store/apps/details?id=co.lunchclick&hl=ru)
+[Самое популярное их приложение на плей-маркете, >100к скачиваний](https://play.google.com/store/apps/details?id=co.lunchclick&hl=ru)
 
 ![](https://github.com/ResidentTGT/Docs/blob/master/images/viola4.png "")
 
 ## Советники
+
+Полноценные профили in. Думаю, некоторые лица даже описывать не стоит.
+
+[Lisa Clampitt](https://www.linkedin.com/in/lisa-clampitt-b93138/)
+
+[Hong Ting Wong](https://www.linkedin.com/in/hongtingwong/)
+
+[Peter Sin](https://www.linkedin.com/in/petersinguili/)
+
+[Philippe Rodriguez](https://www.linkedin.com/in/philrod/)
+
+Сам причастность этих персон к проекту не проверял (возможно, обновлю на днях), но на сайте icoholder все они не верифицированы
 
 ![](https://github.com/ResidentTGT/Docs/blob/master/images/viola5.png "")
 
