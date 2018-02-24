@@ -47,9 +47,19 @@ Prices for 1 INV at different stages:
 
 ![](https://github.com/ResidentTGT/Docs/blob/master/images/invacio3.png "")
 
-Если все же кого-то заинтересует, то кинуть можно сколько хочешь сразу) KYC никакого не проходил, м.б. он будет после транзакции, но что-то подсказывает, что нет. 
+Если все же кого-то заинтересует, то кинуть можно сколько хочешь сразу) KYC никакого не проходил, м.б. он будет после транзакции, но что-то подсказывает, что нет.
 
 ![](https://github.com/ResidentTGT/Docs/blob/master/images/invacio2.png "")
+
+## Other reviews
+
+[Обзор icobench](https://icobench.com/ico/invacio)
+
+[Обзор icorating](https://icorating.com/analytics/basic/invacio-basic-review/)
+
+Последний обзор полноценный.
+
+
 
 
 
