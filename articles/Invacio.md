@@ -39,4 +39,17 @@ Prices for 1 INV at different stages:
 
 Также огромная капа в 100 млн., принимают в фиате, в телеге 1600 человек, и это спустя месяц после того, как должен был начаться сейл.
 
+Это скрин по из wp по токен-сейлу. Обратите внимание на даты, стадии, стоимость.
+
+![](https://github.com/ResidentTGT/Docs/blob/master/images/invacio1.png "")
+
+А это уже скрин с сайта: все по-другому + бонусы...
+
+![](https://github.com/ResidentTGT/Docs/blob/master/images/invacio3.png "")
+
+Если все же кого-то заинтересует, то кинуть можно сколько хочешь сразу) KYC никакого не проходил, м.б. он будет после транзакции, но что-то подсказывает, что нет. 
+
+![](https://github.com/ResidentTGT/Docs/blob/master/images/invacio2.png "")
+
+
 
