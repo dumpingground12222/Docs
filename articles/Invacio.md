@@ -47,6 +47,11 @@ Prices for 1 INV at different stages:
 
 ![](https://github.com/ResidentTGT/Docs/blob/master/images/invacio3.png "")
 
+А в тг вообще такая инфа:
+
+>OFFICIAL ANNOUNCEMENT : As you all know Invacio delayed our ICO a few weeks ago. Since then, behind-the-scenes we have been working hard to make sure we are ready to bring the very best ICO to the crypto community. The following is our current roadmap which we hope you guys will be as excited about as we are!
+February 26th at 01:00am UCT time will mark the beginning of a 1 Week Flash Sale. Coin price will be 30 Cents per coin with 20% bonus coin allocation and the same gifted equity as we offered previously. The sale will end as soon as Invacio reach 18 million coins sold so get in quickly to secure the last of the 30 cent coins!
+
 Если все же кого-то заинтересует, то кинуть можно сколько хочешь сразу) KYC никакого не проходил, м.б. он будет после транзакции, но что-то подсказывает, что нет.
 
 ![](https://github.com/ResidentTGT/Docs/blob/master/images/invacio2.png "")
