@@ -29,7 +29,7 @@ Project Type: Network Protocol
 ### RoadMap
 По дорожной карте 4 этапа, по которым нет дат: 
 1. Релиз блокчейн-форума для технической коммуникации (закончен)
-2. Release WhitePaper & Economic Model (WP опубликован, экономическая модель еще нет)
+2. Релиз WhitePaper & Economic Model (WP опубликован, экономическая модель еще нет)
 3. Запуск бета-версии NKN-сети на основе Cellular Automata & Proof of Relay
 4. Релиз NKN-сети 1.0
 ## Медиа
