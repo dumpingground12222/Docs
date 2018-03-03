@@ -1,4 +1,16 @@
 # NKN
+*Updated at **03.03.2018** by **ResidentTGT***
+
+## Annotation
+
+Website: [NKN](http://nkn.org/)
+
+Introduction: [Introduction.pdf](https://www.nkn.org/doc/NKN_Introduction.pdf)
+
+White Paper: [NKN_Whitepaper.pdf](https://www.nkn.org/doc/NKN_Whitepaper.pdf)
+
+Project Type: Network Protocol
+
 ## Идея
 ### Миссия
 [Оф. сайт NKN](http://nkn.org/), [Их презентация](https://www.nkn.org/doc/NKN_Intr_v0.1beta.pdf)
