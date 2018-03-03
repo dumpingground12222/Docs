@@ -32,10 +32,10 @@ Project Type: Network Protocol
 3. Запуск бета-версии NKN-сети на основе Cellular Automata & Proof of Relay
 4. Релиз NKN-сети 1.0
 ## Медиа
-1. [Telegram - чат](https://t.me/nknorg) - 4900 человек, чат создан 30 января. Админ постоянно что-то пишет.
-2. [Facebook - account](https://www.facebook.com/nkn.org?hc_ref=ARSsqMXbadiGmi0yeg7YlsHWbum3onMSHYkfAhIGLQqR3xDRL7AJPnxMxyMYs2QIOCE) - Создан 26 января, 224 друга, фотки с **NEO DevCon**, а также выступления 1 марта в Стэнфорде.
-3. Почта - contact@nkn.org
-4. [Твиттер](https://twitter.com/NKN_ORG) - 1223 подписчика, контент такой же, что и на фейсбуке (70 твитов).
+- [Telegram - чат](https://t.me/nknorg) - 4900 человек, чат создан 30 января. Админ постоянно что-то пишет.
+- [Facebook - account](https://www.facebook.com/nkn.org?hc_ref=ARSsqMXbadiGmi0yeg7YlsHWbum3onMSHYkfAhIGLQqR3xDRL7AJPnxMxyMYs2QIOCE) - Создан 26 января, 224 друга, фотки с **NEO DevCon**, а также выступления 1 марта в Стэнфорде.
+- Почта - contact@nkn.org
+- [Твиттер](https://twitter.com/NKN_ORG) - 1223 подписчика, контент такой же, что и на фейсбуке (70 твитов).
 ## Разработка
 [GitHub](https://github.com/NKNetwork) <br>
 На гитхабе можно найти реализованный первый этап из дорожной карты, причем проекту минимум год, по фронтенду: юзают Vue.js. Также в проектах Go, JS, Python.
