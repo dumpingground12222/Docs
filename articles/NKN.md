@@ -7,7 +7,7 @@ Website: [NKN](http://nkn.org/)
 
 Introduction: [Introduction.pdf](https://www.nkn.org/doc/NKN_Introduction.pdf)
 
-White Paper: [NKN_Whitepaper.pdf](https://www.nkn.org/doc/NKN_Whitepaper.pdf)
+White Paper: [NKN_Whitepaper.pdf](https://www.nkn.org/doc/NKN_Whitepaper.pdf) (1.03.2018)
 
 Project Type: Network Protocol
 
@@ -16,27 +16,22 @@ Project Type: Network Protocol
 [Оф. сайт NKN](http://nkn.org/), [Их презентация](https://www.nkn.org/doc/NKN_Intr_v0.1beta.pdf)
 >NKN (New Kind of Network) is a new project aiming to rebuild the Internet that will be truly open, decentralized, dynamic, safe, shared and owned by the community. NKN intend to introduce Cellular Automata to innovate on several major layers in the entire stack. First of all, the project will address the network decentralization in a broad sense, starting from application connectivity, to networking protocol. Secondly, the project intend to improve the underlying blockchain technology to achieve efficient and fair consensus without sacrificing node equality and decentralization. Finally the project will leverage blockchain to maximize network resource utilization and incentivize community driven network creation, participation and expansion. <br/>
 
-Проект, нацеленный на "перестроение" Интернета, который должен будет стать открытым, децентрализованным и безопасным. Они хотят внедрить технологию "[клеточного автомата](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82)" на основных слоях  сетевого стека. В первую очередь, их проект направлен на децентрализацию сети, начиная с уровня приложений, кончая сетевым. Т.е. они предлагают свою модель передачи данных с децентрализованной архитектурой (сейчас повсеместно в интернете используется [TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP)), уровень приложений (application layer) как раз первый в tcp/ip, сетевой (internet layer)- третий, остается канальный, но это физический уровень, уровень "железа".<br> Во-вторых, NKN намерен улучшить блокчейн для достижения эффективного и справедливого консенсуса, не жертвуя равенством узлов и децентрализацией.
+Проект, нацеленный на "перестроение" Интернета, который должен будет стать открытым, децентрализованным и безопасным. Они хотят внедрить технологию "[клеточного автомата](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82)" на основных слоях  сетевого стека. В первую очередь, их проект направлен на децентрализацию сети и изменение протоколов передачи данных, начиная с уровня приложений, кончая сетевым. Т.е. они предлагают свою модель передачи данных с децентрализованной архитектурой (сейчас повсеместно в интернете используется [TCP/IP](https://ru.wikipedia.org/wiki/TCP/IP)), уровень приложений (application layer) как раз первый в tcp/ip, сетевой (internet layer)- третий, остается канальный, но это физический уровень, уровень "железа".<br> Во-вторых, NKN намерен "улучшить" блокчейн для достижения эффективного и справедливого консенсуса, не жертвуя равенством узлов и децентрализацией.
 ### Почему нужна новая инфраструктура
 По прошествии многих лет первоначальная идея создания глобальной сети под названием Интернет померкла в виду неэффективного использования каналов передачи данных, возможности фрагментации информации, а также возможности ее цензурирования.
 ### Задачи команды NKN
 Команда NKN хочет достигнуть следующих целей:
-
 -любой узел сети может подключиться к любому другому узлу в сети
-
 -сетевой нейтралитет (означает, что скорость передачи данных не зависит от передаваемого их источника)
-
 -открытая и масштабируемая сеть
-
 -динамический и эффективный рутинг (это означает перенаправление клиента в зав-ти от его запроса на нужный ему ресурс, напрямую зависит от физической реализации сети, кстати)
-
 -токенизация сетевых подключений и передачи данных, а также стимулирование участвующих в этом узлов
-
+### RoadMap
 По дорожной карте 4 этапа, по которым нет дат: 
-1. Release our own online blockchain forum for technical communication (закончен)
+1. Релиз блокчейн-форума для технической коммуникации (закончен)
 2. Release WhitePaper & Economic Model (WP опубликован, экономическая модель еще нет)
-3. Launch beta NKN-network
-4. Release NKN 1.0
+3. Запуск бета-версии NKN-сети на основе Cellular Automata & Proof of Relay
+4. Релиз NKN-сети 1.0
 ## Медиа
 1. [Telegram - чат](https://t.me/nknorg) - 4900 человек, чат создан 30 января. Админ постоянно что-то пишет.
 2. [Facebook - account](https://www.facebook.com/nkn.org?hc_ref=ARSsqMXbadiGmi0yeg7YlsHWbum3onMSHYkfAhIGLQqR3xDRL7AJPnxMxyMYs2QIOCE) - Создан 26 января, 224 друга, фотки с **NEO DevCon**, а также выступления 1 марта в Стэнфорде.
