@@ -84,4 +84,17 @@ Onchain - одна из ведущих технологических компа
 > NKN представляет проект, который на законных основаниях можно назвать революционным. Но как однажды сказали Леннон с Маккартни: "Вы говорите, что у вас есть реальное решение / Ну, вы знаете / Мы все будем рады увидеть план."
 Для проекта такого масштаба на ранних этапах разработки у нас есть концепция продукта и команда в качестве наших основных показателей относительно того, делать ставку на этот проект или нет. Но согласимся, что тяжело было бы найти команду, более подходящую для задач создания и запуска нового вида сети.
 ## Update 27.03
-[Economic Model and Road Map](https://cdn.discordapp.com/attachments/413707499892506625/428094600805220352/NKN_Economic_Model__Roadmap_V0.6.pdf)
+[Economic Model and Road Map](https://cdn.discordapp.com/attachments/413707499892506625/428094600805220352/NKN_Economic_Model__Roadmap_V0.6.pdf) <br>
+Token Symbol: NNC<br>
+Public Sale Metric: 1 ETH = 4150 NNC <br>
+Earlybird Metric:  1 ETH = 4500 NNC <br>
+Public Sale Total Hard Cap: 24100 ETH <br>
+Earlybird Sale Hard Cap: 12000 ETH <br>
+Token Type: NEP-5, затем они будут по курсу 1 к 1 к их нативному токену <br>
+Всего токенов 1 млрд, 35% будет продано, 18% зарезервировано для разработчиков и советников на 3 года, будут разлочиваться каждый год по трети, 17% зарезервировано для "Foundation", 30% для майнеров <br>
+Roadmap:
+![](https://github.com/ResidentTGT/Docs/blob/master/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG "")
+
+
+
+
